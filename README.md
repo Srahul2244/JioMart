@@ -50,11 +50,4 @@ OCTAGON is an E-Commerce website where users buy products what they need and als
 
 
 ## Authors
-
-- [@Darshan Kale](https://www.linkedin.com/in/darshan-kale-264335171/)
-- [@Theja Swaroop](https://www.linkedin.com/in/theja-swaroop-10a1a9197/)
-- [@Bhupendra kumar Chandrakar](https://www.linkedin.com/in/bhupendra-kumar-chandrakar/)
-- [@Uday Patil](https://www.linkedin.com/in/patiluday/)
-- [@Shravani Mishra](https://www.linkedin.com/in/shravani-mishra-3393651b0/)
-
- 
+Rahul Singh
