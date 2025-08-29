@@ -16,7 +16,7 @@ import React, { useState } from 'react'
 import {useNavigate, useLocation} from "react-router-dom"
 import {UserLoginRequest,UserLoginSuccess,UserLoginFailure} from "../AuthReducer/action"
 import {useDispatch} from "react-redux"
-
+//login page
 const Login = () => {
     const [isMobile] = useMediaQuery('(max-width: 600px)')
     const [toggle, setToggle] = useState(false)
